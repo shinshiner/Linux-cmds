@@ -11,5 +11,7 @@ All linux cmds I have used
 ## 网络管理
 * [网络监控](https://github.com/shinshiner/Linux-cmds/tree/master/Net)
 
-* [权限操作](https://github.com/shinshiner/Linux-cmds/tree/master/AUTHORITY)
+## 权限管理
+
+* [权限操作](https://github.com/shinshiner/Linux-cmds/blob/master/AUTHORITY/authority.md)
 
