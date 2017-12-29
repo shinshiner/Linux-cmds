@@ -12,10 +12,10 @@
 
 ### 上传文件(夹)到服务器
 
-* 传文件 `scp -P [port_number] [file_path_in_PC] [username@ip_address:file_path_in_server]`
-* 传文件夹 `scp -r -P [port_number] [file_path_in_PC] [username@ip_address:file_path_in_server]`
+* 传文件 `scp -P [port number] [file path in PC] [username@ip address:file path in server]`
+* 传文件夹 `scp -r -P [port number] [file path in PC] [username@ip address:file path in server]`
 
 ### 从服务器上下载文件(夹)
 
-* 下载文件 `scp -P [port_number] [username@ip_address:file_path_in_server] [file_path_in_PC]`
-* 下载文件夹 `scp -r -P [port_number] [username@ip_address:file_path_in_server] [file_path_in_PC]`
+* 下载文件 `scp -P [port number] [username@ip address:file path in server] [file path in PC]`
+* 下载文件夹 `scp -r -P [port number] [username@ip address:file path in server] [file path in PC]`
