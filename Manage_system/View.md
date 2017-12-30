@@ -10,5 +10,6 @@ htop
 
 ### View the GPU state
 
-1) install the nvidia driver
-2) run `nvidia-smi`
+* if you are using nvidia graphics card :
+  1) install the nvidia driver
+  2) run `nvidia-smi`
