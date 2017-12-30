@@ -15,3 +15,6 @@ All linux cmds I have used
 
 * [权限操作](https://github.com/shinshiner/Linux-cmds/blob/master/AUTHORITY/authority.md)
 
+## 系统管理
+
+* [查看系统信息](https://github.com/shinshiner/Linux-cmds/blob/master/Manage_system/View.md)
