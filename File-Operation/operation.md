@@ -1,14 +1,32 @@
 ### 改变当前所在目录
 
-* Common usage `cd [target path]`
-* 返回上一级 `cd ..`
+* Common usage 
+```
+cd [target path]
+```
+* 返回上一级 
+```
+cd ..
+```
 
-### 删除
+### 删除文件
 
-* 删除文件 `rm [filename]`
-* 删除文件夹 `rm -r [foldername]`
-* 强行删除文件 `rm -rf [filename]`
-* 强行删除文件夹 `rm -rf [foldername]`
+* 删除文件 
+```
+rm [filename]
+```
+* 删除文件夹 
+```
+rm -r [foldername]
+```
+* 强行删除文件 
+```
+rm -rf [filename]
+```
+* 强行删除文件夹
+```
+rm -rf [foldername]
+```
 
 ### 上传文件(夹)到服务器
 
